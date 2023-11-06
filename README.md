@@ -84,7 +84,7 @@ int main()
 ~~~
 ## OUTPUT:
 ![p](A.png)
-RESULT:
+## RESULT:
 Thus ,Banker’s Algorithm is successfully implemented using C programming.
 
 
